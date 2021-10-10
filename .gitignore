@@ -3,7 +3,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,jupyternotebooks,python,spark
 
 Spark-The-Definitive-Guide-master/
-data/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
